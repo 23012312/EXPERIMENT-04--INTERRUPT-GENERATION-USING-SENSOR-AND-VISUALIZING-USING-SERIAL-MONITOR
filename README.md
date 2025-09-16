@@ -2,8 +2,8 @@
 
 ###  DATE: 15.09.2025
 
-###  NAME: JABEZ S
-###  ROLL NO : 212223040070 
+###  NAME: K ABHINESWAR REDDY
+###  ROLL NO : 212223040084
 ###  DEPARTMENT: CSE
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
@@ -406,14 +406,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of serial port utility   :
  
- <img width="2559" height="1599" alt="Screenshot 2025-09-15 112455" src="https://github.com/user-attachments/assets/f4ff93ce-e007-4543-a7f1-38b1f4ac6568" />
+<img width="1919" height="946" alt="Screenshot 2025-09-15 115121" src="https://github.com/user-attachments/assets/4c4b99cf-1581-4e12-99eb-18377e51650e" />
 
  ## Circuit board :
 ### WITHOUT OBJECT:
-![EXP4-2](https://github.com/user-attachments/assets/3377436c-7d8a-4782-8be2-bf0e8ebf82df)
+![WhatsApp Image 2025-09-16 at 18 09 24_6bd0b336](https://github.com/user-attachments/assets/e1a53d6d-7e8d-4981-8f9f-7bd3f8d5c20e)
+
 
 ### WITH OBJECT:
-![EXP4-1](https://github.com/user-attachments/assets/7954d679-2c52-45df-9790-b7bc9f29a9e7)
+![WhatsApp Image 2025-09-16 at 18 09 24_8cb7b05c](https://github.com/user-attachments/assets/802a30fb-2b9a-4982-bdc2-fc66431096ec)
+
 
  
 ## Result :
